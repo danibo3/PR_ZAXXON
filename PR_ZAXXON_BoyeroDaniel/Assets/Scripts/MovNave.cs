@@ -10,7 +10,7 @@ public class MovNave : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        desplSpeed = 25f;
+        desplSpeed = 35f;
     }
 
     // Update is called once per frame
